@@ -109,6 +109,8 @@ endif(NOT MSVC)
 
 set(SOURCE
 	main.cpp
+	gfx.hpp
+	gfx.cpp
 )
 
 add_executable(${PROJECT_NAME} ${SOURCE})
