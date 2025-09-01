@@ -1,5 +1,6 @@
 #include "gfx.hpp"
 
+#include <cstring>
 #include <iostream>
 #include <stdexcept>
 #include <vector>
